@@ -1,3 +1,3 @@
-#This is my first submission for markOne.
+# markOne “Do you know me?” Quiz Application
 
 This project contains a quiz about Superheroes.
